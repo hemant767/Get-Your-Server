@@ -13,7 +13,7 @@
 <h5>GET : localhost:8080/servers</h5>  
  <p>To get the list of existing servers<p>
 
-<img src=".springrest/springrest/Ss/Get the list.png"  alt=""   width="800" height="400" >
+<img src="./springrest/springrest/Ss/Get the list.png"  alt=""   width="800" height="400" >
  
  
 
@@ -23,11 +23,11 @@
  
  <h5>POST : localhost:8080/servers</h5>
   <p>Adding process</p>
- <img src=".springrest/springrest/Ss/post info process.png"  alt=""   width="800" height="400" >
+ <img src="./springrest/springrest/Ss/post info process.png"  alt=""   width="800" height="400" >
  
  <p>Added new server with new id=5(initially has only 4 servers)</p>
  
- <img src="./Ss/new list after add.png"  alt=""   width="800" height="400" >
+ <img src="./springrest/springrest/Ss/new list after add.png"  alt=""   width="800" height="400" >
  <h4>Changes after POST resquest, added new server with id =5 in last </h4>
  
  
@@ -38,10 +38,10 @@
   <h5>DELETE :localhost:8080/servers?id=1 </h5>
   
   <p>Deleting server whose id is 1<p>
-  <img src=".springrest/springrest/Ss/deletinf server by id.png"  alt=""   width="800" height="200" >
+  <img src="./springrest/springrest/Ss/deletinf server by id.png"  alt=""   width="800" height="200" >
   
   <p>List after deletion of server (id=1)<p>
- <img src=".springrest/springrest/Ss/list after deletion.png"  alt=""   width="800" height="400" >
+ <img src="./springrest/springrest/Ss/list after deletion.png"  alt=""   width="800" height="400" >
  
   
    <p>----------------------------------------------------------</p>
@@ -51,11 +51,11 @@
   <h5>PATCH :localhost:8080/servers?id=1 </h5>
   
   <p>Updating server whose id=2</p>
-   <img src=".springrest/springrest/Ss/post info process.png"  alt=""   width="800" height="400" >
+   <img src="./springrest/springrest/Ss/post info process.png"  alt=""   width="800" height="400" >
   
   
   <p>Updated List (changing server with id =2's framework from c++ to Python</p>
-   <img src=".springrest/springrest/Ss/Updated list.png"  alt=""   width="800" height="400" >
+   <img src="./springrest/springrest/Ss/Updated list.png"  alt=""   width="800" height="400" >
   
   
  
