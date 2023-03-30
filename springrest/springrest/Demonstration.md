@@ -1,4 +1,4 @@
-# Task 1
+
 
 <h1>JAVA Rest API</h1>
 
@@ -8,7 +8,7 @@
  
  
  
-
+ <p>----------------------------------------------------------</p>
 <h3>***Initial List only of 4 servers***</h3> 
  <p>---------------------------------------------</p>
 
@@ -16,8 +16,10 @@
  <p>To get the list of existing servers<p>
 
 <img src="./Ss/Get the list.png"  alt=""   width="800" height="400" >
-
  
+ 
+
+  <p>----------------------------------------------------------</p>
 <h3>Adding a server to existing list</h3>
  <p>----------------------------------------------------------</p>
  
@@ -30,6 +32,8 @@
  <img src="./Ss/new list after add.png"  alt=""   width="800" height="400" >
  <h4>Changes after POST resquest, added new server with id =5 in last </h4>
  
+ 
+  <p>----------------------------------------------------------</p>
  <h3>Deleting server by ID <h3>
   <p>----------------------------------------------------------</p>
   
@@ -40,7 +44,9 @@
   
   <p>List after deletion of server (id=1)<p>
  <img src="./Ss/list after deletion.png"  alt=""   width="800" height="400" >
+ 
   
+   <p>----------------------------------------------------------</p>
   <h3>Updating server by ID</h3>
    <p>----------------------------------------------------------</p>
  
